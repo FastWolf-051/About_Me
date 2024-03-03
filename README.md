@@ -12,5 +12,5 @@ C++ and C#
 # My github repositorues
 I also have 2 repositories on github,
 first written in C++,
-second on C#
-But i keep this code private,but i don't have a reason why
+second on C#.
+But i keep this code private,but i don't have a reason why...
