@@ -1,5 +1,5 @@
 # About Me
-I are 14 years old guy,who started learning programming in summer 2023.
+I are 15 years old guy,who started learning programming in summer 2023.
 My first try to learn python is failed.
 Then i try to introduce in web,but after time i know,what in my opinion this are boring.
 # My not failed attempts to learn programming
@@ -14,3 +14,5 @@ I also have 2 repositories on github,
 first written in C++,
 second on C#.
 But i keep this code private,but i don't have a reason why...
+# Current learning
+C,in basic concepts
