@@ -6,13 +6,15 @@ Then i try to introduce in web,but after time i know,what in my opinion this are
 My friend sayed me,that i need to learn C#,and after some time I started learning this.
 When i ended in learning base of C#,i jumped to C++
 I now really don't remember why i should do this,but in process of learning base of C++ my mind had blowed up.
+And now I gonna introduce in gamedev section. 
 # My main languages
 there now are 2 my main languages,in which i write: 
-C++ and C#
+C++ and C#, and some C
 # My github repositorues
-I also have 2 repositories on github,
-first written in C++,
-second on C#.
-But i keep this code private,but i don't have a reason why...
+I also have 3 repositories on github,
+all they written in C++, 2 publi, one private
 # Current learning
-C,in basic concepts
+C++, __declscpec features, some java
+# Future projects
+In 2025 I will create an new big project
+And in 2026 I also has an idea, what to do
